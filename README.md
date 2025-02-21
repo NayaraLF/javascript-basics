@@ -1,4 +1,7 @@
-#Estudos sobre a linguagem JavaScipt
+#My studies about JavaScript
 
-Exercícios desenvolvidos durante o curso de JavaScript da plataforma CursoemVideo.
-Agora versionado em git.
+Exercises developed in the JavaScript course, available in CursoemVideo (https://www.cursoemvideo.com/curso/javascript/) .
+
+
+
+
