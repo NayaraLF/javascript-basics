@@ -1,3 +1,3 @@
 #Estudos sobre a linguagem JavaScipt
 
-Exercicíos desenvolvidos durante o curso de JavaScript
+Exercícios desenvolvidos durante o curso de JavaScript da plataforma CursoemVideo.
